@@ -1,0 +1,5 @@
+settings.ts
+node_modules
+*.ttf
+*.mp4
+produced
